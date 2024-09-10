@@ -49,3 +49,4 @@ public class Main {
         System.out.println("История просмотров после операций: " + taskManager.getHistory());
     }
 }
+// хуйня ебаная
